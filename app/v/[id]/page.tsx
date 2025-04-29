@@ -175,6 +175,11 @@ const jsonLd = {
                 <CardContent>
                     <div className="grid grid-flow-row lg:grid-flow-col">
             <p>Video bokep indo terbaru viral {file.title} di {SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek film tante hot twitter asia download live stw situs indonesia nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1052552})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1052552" data-width="300" data-height="112"></ins>
                         <Table>
                             <TableBody>
                                 <TableRow>
@@ -220,7 +225,12 @@ const jsonLd = {
             </Card>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
-            </h2>
+            </h2><script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1052551})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1052551" data-width="300" data-height="262"></ins>
+
             <SearchCardList query={file.title.split(" ")[2]} />
         </div>
     );
